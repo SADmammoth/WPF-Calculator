@@ -1,0 +1,6 @@
+C:\Users\AdminNB\source\repos\Lab2Task4\Calculator\bin\Debug\Calculator.dll
+C:\Users\AdminNB\source\repos\Lab2Task4\Calculator\bin\Debug\Calculator.pdb
+C:\Users\AdminNB\source\repos\Lab2Task4\Calculator\obj\Debug\Calculator.csprojAssemblyReference.cache
+C:\Users\AdminNB\source\repos\Lab2Task4\Calculator\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
+C:\Users\AdminNB\source\repos\Lab2Task4\Calculator\obj\Debug\Calculator.dll
+C:\Users\AdminNB\source\repos\Lab2Task4\Calculator\obj\Debug\Calculator.pdb
